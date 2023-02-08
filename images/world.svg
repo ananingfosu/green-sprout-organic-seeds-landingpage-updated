@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="27" viewBox="0 0 27 27">
+  <g id="world" transform="translate(-1078 -54)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="13.5" cy="13.5" r="13.5" transform="translate(1078 54)" fill="#fffffe"/>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(1084 60)" fill="#fff" stroke="#252525" stroke-width="0.5">
+      <circle cx="7.5" cy="7.5" r="7.5" stroke="none"/>
+      <circle cx="7.5" cy="7.5" r="7.25" fill="none"/>
+    </g>
+    <path id="Path_1" data-name="Path 1" d="M3085.624,62.1s-3.509,3.509-11.765,0" transform="translate(-1988.428 2.175)" fill="none" stroke="#252525" stroke-width="0.5"/>
+    <path id="Path_2" data-name="Path 2" d="M3086.672,62.1s-3.822,3.509-12.813,0" transform="translate(-1988.921 7.248)" fill="none" stroke="#252525" stroke-width="0.5"/>
+    <path id="Path_3" data-name="Path 3" d="M13.044,0S9.154,3.509,0,0" transform="matrix(-0.105, -0.995, 0.995, -0.105, 1093.735, 73.689)" fill="none" stroke="#252525" stroke-width="0.5"/>
+    <path id="Path_4" data-name="Path 4" d="M12.9,1.56S9.055-1.949,0,1.56" transform="translate(1087.636 73.594) rotate(-87)" fill="none" stroke="#252525" stroke-width="0.5"/>
+  </g>
+</svg>
